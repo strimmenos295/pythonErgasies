@@ -1,2 +1,0 @@
-# pythonErgasies
-ergasies eksaminoy
